@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubUsers</string>
+    <string name="hint_search_query">Find user…</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
